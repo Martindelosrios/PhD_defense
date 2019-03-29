@@ -19,88 +19,90 @@
 \headcommand {\beamer@framepages {8}{8}}
 \headcommand {\slideentry {1}{0}{7}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\beamer@sectionpages {3}{9}}
-\headcommand {\beamer@subsectionpages {3}{9}}
-\headcommand {\sectionentry {2}{The \texttt {MeSsI} (Merging Systems Identification) Algorithm.}{10}{The \texttt {MeSsI} (Merging Systems Identification) Algorithm.}{0}}
-\headcommand {\slideentry {2}{0}{1}{10/10}{}{0}}
+\headcommand {\slideentry {1}{0}{8}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {2}{0}{2}{11/11}{}{0}}
+\headcommand {\beamer@sectionpages {3}{10}}
+\headcommand {\beamer@subsectionpages {3}{10}}
+\headcommand {\sectionentry {2}{The \texttt {MeSsI} (Merging Systems Identification) Algorithm.}{11}{The \texttt {MeSsI} (Merging Systems Identification) Algorithm.}{0}}
+\headcommand {\slideentry {2}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {2}{0}{3}{12/12}{}{0}}
+\headcommand {\slideentry {2}{0}{2}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {2}{0}{4}{13/13}{}{0}}
+\headcommand {\slideentry {2}{0}{3}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {2}{0}{5}{14/14}{}{0}}
+\headcommand {\slideentry {2}{0}{4}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {2}{0}{6}{15/15}{}{0}}
+\headcommand {\slideentry {2}{0}{5}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@sectionpages {10}{15}}
-\headcommand {\beamer@subsectionpages {10}{15}}
-\headcommand {\sectionentry {3}{Derived Results.}{16}{Derived Results.}{0}}
-\headcommand {\slideentry {3}{0}{1}{16/16}{}{0}}
+\headcommand {\slideentry {2}{0}{6}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\slideentry {3}{0}{2}{17/17}{}{0}}
+\headcommand {\beamer@sectionpages {11}{16}}
+\headcommand {\beamer@subsectionpages {11}{16}}
+\headcommand {\sectionentry {3}{Derived Results.}{17}{Derived Results.}{0}}
+\headcommand {\slideentry {3}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@subsectionpages {16}{17}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{18}{A2029/2033.}}
-\headcommand {\slideentry {3}{1}{1}{18/18}{A2029/2033.}{0}}
+\headcommand {\slideentry {3}{0}{2}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@subsectionpages {18}{18}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{19}{A1204.}}
-\headcommand {\slideentry {3}{2}{1}{19/19}{A1204.}{0}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{19}{A2029/2033.}}
+\headcommand {\slideentry {3}{1}{1}{19/19}{A2029/2033.}{0}}
 \headcommand {\beamer@framepages {19}{19}}
 \headcommand {\beamer@subsectionpages {19}{19}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{20}{A267.}}
-\headcommand {\slideentry {3}{3}{1}{20/20}{A267.}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{20}{A1204.}}
+\headcommand {\slideentry {3}{2}{1}{20/20}{A1204.}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {3}{3}{2}{21/21}{A267.}{0}}
+\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{21}{A267.}}
+\headcommand {\slideentry {3}{3}{1}{21/21}{A267.}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {3}{3}{3}{22/22}{A267.}{0}}
+\headcommand {\slideentry {3}{3}{2}{22/22}{A267.}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@subsectionpages {20}{22}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{23}{Statistical analysis of the magnetic fields in merging clusters.}}
-\headcommand {\slideentry {3}{4}{1}{23/23}{Statistical analysis of the magnetic fields in merging clusters.}{0}}
+\headcommand {\slideentry {3}{3}{3}{23/23}{A267.}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {3}{4}{2}{24/24}{Statistical analysis of the magnetic fields in merging clusters.}{0}}
+\headcommand {\beamer@subsectionpages {21}{23}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{24}{Statistical analysis of the magnetic fields in merging clusters.}}
+\headcommand {\slideentry {3}{4}{1}{24/24}{Statistical analysis of the magnetic fields in merging clusters.}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\beamer@sectionpages {16}{24}}
-\headcommand {\beamer@subsectionpages {23}{24}}
-\headcommand {\sectionentry {4}{\texttt {CosmoMl}:Machine Learning techniques applied to the CMB.}{25}{\texttt {CosmoMl}:Machine Learning techniques applied to the CMB.}{0}}
-\headcommand {\slideentry {4}{0}{1}{25/25}{}{0}}
+\headcommand {\slideentry {3}{4}{2}{25/25}{Statistical analysis of the magnetic fields in merging clusters.}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\slideentry {4}{0}{2}{26/26}{}{0}}
+\headcommand {\beamer@sectionpages {17}{25}}
+\headcommand {\beamer@subsectionpages {24}{25}}
+\headcommand {\sectionentry {4}{\texttt {CosmoMl}:Machine Learning techniques applied to the CMB.}{26}{\texttt {CosmoMl}:Machine Learning techniques applied to the CMB.}{0}}
+\headcommand {\slideentry {4}{0}{1}{26/26}{}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\beamer@subsectionpages {25}{26}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{27}{Construction of the data set.}}
-\headcommand {\slideentry {4}{1}{1}{27/27}{Construction of the data set.}{0}}
+\headcommand {\slideentry {4}{0}{2}{27/27}{}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\beamer@subsectionpages {27}{27}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{28}{Supervised methods.}}
-\headcommand {\slideentry {4}{2}{1}{28/28}{Supervised methods.}{0}}
+\headcommand {\beamer@subsectionpages {26}{27}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{28}{Construction of the data set.}}
+\headcommand {\slideentry {4}{1}{1}{28/28}{Construction of the data set.}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\slideentry {4}{2}{2}{29/29}{Supervised methods.}{0}}
+\headcommand {\beamer@subsectionpages {28}{28}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{29}{Supervised methods.}}
+\headcommand {\slideentry {4}{2}{1}{29/29}{Supervised methods.}{0}}
 \headcommand {\beamer@framepages {29}{29}}
-\headcommand {\beamer@subsectionpages {28}{29}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{30}{Cosmological parameters Angular distributions.}}
-\headcommand {\slideentry {4}{3}{1}{30/30}{Cosmological parameters Angular distributions.}{0}}
+\headcommand {\slideentry {4}{2}{2}{30/30}{Supervised methods.}{0}}
 \headcommand {\beamer@framepages {30}{30}}
-\headcommand {\slideentry {4}{3}{2}{31/31}{Cosmological parameters Angular distributions.}{0}}
+\headcommand {\beamer@subsectionpages {29}{30}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{31}{Cosmological parameters Angular distributions.}}
+\headcommand {\slideentry {4}{3}{1}{31/31}{Cosmological parameters Angular distributions.}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {4}{3}{3}{32/32}{Cosmological parameters Angular distributions.}{0}}
+\headcommand {\slideentry {4}{3}{2}{32/32}{Cosmological parameters Angular distributions.}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\beamer@sectionpages {25}{32}}
-\headcommand {\beamer@subsectionpages {30}{32}}
-\headcommand {\sectionentry {5}{Conclusions.}{33}{Conclusions.}{0}}
-\headcommand {\slideentry {5}{0}{1}{33/33}{}{0}}
+\headcommand {\slideentry {4}{3}{3}{33/33}{Cosmological parameters Angular distributions.}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {5}{0}{2}{34/39}{}{0}}
-\headcommand {\beamer@framepages {34}{39}}
-\headcommand {\slideentry {5}{0}{3}{40/42}{}{0}}
-\headcommand {\beamer@framepages {40}{42}}
-\headcommand {\slideentry {5}{0}{4}{43/43}{}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\beamer@partpages {1}{43}}
-\headcommand {\beamer@subsectionpages {33}{43}}
-\headcommand {\beamer@sectionpages {33}{43}}
-\headcommand {\beamer@documentpages {43}}
-\headcommand {\gdef \inserttotalframenumber {36}}
+\headcommand {\beamer@sectionpages {26}{33}}
+\headcommand {\beamer@subsectionpages {31}{33}}
+\headcommand {\sectionentry {5}{Conclusions.}{34}{Conclusions.}{0}}
+\headcommand {\slideentry {5}{0}{1}{34/34}{}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {5}{0}{2}{35/40}{}{0}}
+\headcommand {\beamer@framepages {35}{40}}
+\headcommand {\slideentry {5}{0}{3}{41/43}{}{0}}
+\headcommand {\beamer@framepages {41}{43}}
+\headcommand {\slideentry {5}{0}{4}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@partpages {1}{44}}
+\headcommand {\beamer@subsectionpages {34}{44}}
+\headcommand {\beamer@sectionpages {34}{44}}
+\headcommand {\beamer@documentpages {44}}
+\headcommand {\gdef \inserttotalframenumber {37}}
