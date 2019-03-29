@@ -5,7 +5,7 @@
 \usepackage{multimedia}
 \usepackage{animate}
 \usepackage[export]{adjustbox}
-
+\usetheme{Boadilla}
 
 \definecolor{verde}{rgb}{0.5,1,0.2}
 \definecolor{rojo}{rgb}{1,0,0}
@@ -84,11 +84,6 @@
 
 }
 
-\begin{frame}{Mixture of Gaussians}
-\begin{center}
-  \animategraphics[loop,controls,scale=0.5]{10}{mixture_of_gaussians-}{0}{14}
-\end{center}
-\end{frame}
 
 %\frame{
 % \frametitle{Mixture of Gaussians.}
@@ -107,6 +102,13 @@
 
 }
 
+
+\begin{frame}{Mixture of Gaussians}
+\begin{center}
+  \animategraphics[loop,controls,scale=0.5]{10}{mixture_of_gaussians-}{0}{14}
+\end{center}
+\end{frame}
+
 \section{The \texttt{MeSsI} (Merging Systems Identification) Algorithm.}
 
 \frame{
@@ -119,7 +121,7 @@
 \frame{
 \begin{figure}[ht!]
  \centering
- \includegraphics[scale=0.45]{messi_paper.png}
+ \includegraphics[scale=0.32]{messi_paper.png}
  % messi_paper.png: 1020x278 px, 72dpi, 35.98x9.81 cm, bb=0 0 1020 278
 \end{figure}
 
@@ -173,7 +175,7 @@
  % conclusiones_messi.png: 635x698 px, 72dpi, 22.40x24.62 cm, bb=0 0 635 698
 \end{figure}
 }
-\section{Analysis of individual merging clusters candidates.}
+\section{Derived Results.}
 
 \frame{
 \tableofcontents[ 
@@ -192,6 +194,9 @@
 
 \subsection{A2029/2033.}
 \frame{
+\begin{center}
+A2029/2033
+\end{center}
 \begin{figure}[ht!]
  \centering
  \includegraphics[scale=0.25]{A2029-2033-eps-converted-to.pdf}
@@ -201,6 +206,9 @@
 }
 \subsection{A1204.}
 \frame{
+\begin{center}
+A1204
+\end{center}
 \begin{figure}[ht!]
  \centering
  \includegraphics[scale=0.25]{A1204-eps-converted-to.pdf}
@@ -224,19 +232,29 @@
 \end{figure}
 }
 \frame{
-\begin{figure}[ht!]
- \centering
- \includegraphics[scale=0.3]{a267_phasespace.png}
- \includegraphics[scale=0.17]{fig_results2.eps}
- % a267_phasespace.png: 583x449 px, 100dpi, 14.81x11.40 cm, bb=0 0 420 323
-\end{figure}
+\begin{columns}
+  \begin{column}{5cm}
+    \begin{figure}[ht!]
+      \centering
+        \includegraphics[scale=0.3]{a267_phasespace.png}
+        %\includegraphics[scale=0.17]{fig_results2.eps}
+    \end{figure}
+  \end{column}
+  \begin{column}{5cm}
+  \begin{itemize}
+   \item $\approx 40\%$ Fossil groups have a major merger $z<0.8$.
+   \item $\approx 15-25\%$ Fossil groups have a major merger $z<0.3$.
+  \end{itemize}
+
+  \end{column}
+\end{columns}
 
 }
 \subsection{Statistical analysis of the magnetic fields in merging clusters.}
 \frame{
 \begin{figure}[ht!]
  \centering
- \includegraphics[scale=0.6]{magnetic_paper.png}
+ \includegraphics[scale=0.4]{magnetic_paper.png}
  % magnetic_paper.png: 710x230 px, 96dpi, 18.78x6.08 cm, bb=0 0 532 172
 \end{figure}
 }
@@ -272,13 +290,13 @@
  \begin{column}{5cm}
   \begin{figure}[ht!]
    \centering
-   \includegraphics[scale=0.3]{./cosmo_parameters.png}
+   \includegraphics[scale=0.4]{./cosmo_parameters.png}
   \end{figure}
  \end{column}
  \begin{column}{5cm}
   \begin{figure}[ht!]
    \centering
-   \includegraphics[scale=0.3]{./fig3_trainset.pdf}
+   \includegraphics[scale=0.3]{./fig3_trainset.png}
   \end{figure}
  \end{column}
 \end{columns}
@@ -288,20 +306,20 @@
 \frame{
 \begin{figure}[ht!]
  \centering
- \includegraphics[scale=0.22]{./H_pred_fullsky_pixels_svm_8comp_sn.pdf}
- \includegraphics[scale=0.22]{./omc_pred_fullsky_pixels_svm_8comp_sn.pdf}
- \includegraphics[scale=0.22]{./omb_pred_fullsky_pixels_svm_8comp_sn.pdf}
- \includegraphics[scale=0.22]{./omk_pred_fullsky_pixels_svm_8comp_sn.pdf}
+ \includegraphics[scale=0.22]{./H_pred_fullsky_pixels_svm_8comp_sn.png}
+ \includegraphics[scale=0.22]{./omc_pred_fullsky_pixels_svm_8comp_sn.png}
+ \includegraphics[scale=0.22]{./omb_pred_fullsky_pixels_svm_8comp_sn.png}
+ \includegraphics[scale=0.22]{./omk_pred_fullsky_pixels_svm_8comp_sn.png}
  % As_pred_fullsky_pixels_svm_8comp_sn.pdf: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
 \end{figure}
 }
 \frame{
 \begin{figure}[ht!]
  \centering
- \includegraphics[scale=0.2]{./tau_pred_fullsky_pixels_svm_8comp_sn.pdf}
- \includegraphics[scale=0.2]{./n_pred_fullsky_pixels_svm_8comp_sn.pdf}
- \includegraphics[scale=0.2]{./As_pred_fullsky_pixels_svm_8comp_sn.pdf}
- \includegraphics[scale=0.2]{./at_pred_fullsky_pixels_svm_8comp_sn.pdf}
+ \includegraphics[scale=0.22]{./tau_pred_fullsky_pixels_svm_8comp_sn.png}
+ \includegraphics[scale=0.22]{./n_pred_fullsky_pixels_svm_8comp_sn.png}
+ \includegraphics[scale=0.22]{./As_pred_fullsky_pixels_svm_8comp_sn.png}
+ \includegraphics[scale=0.22]{./at_pred_fullsky_pixels_svm_8comp_sn.png}
  % As_pred_fullsky_pixels_svm_8comp_sn.pdf: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
 \end{figure}
 }
@@ -313,13 +331,13 @@
  % map-nside4.pdf: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
 \end{figure}
 }
-\frame{
-\begin{figure}[ht!]
- \centering
- \includegraphics[scale=0.5]{./smica_map_mask.pdf}
+%\frame{
+%\begin{figure}[ht!]
+% \centering
+% \includegraphics[scale=0.5]{./smica_map_mask.pdf}
  % smica_map_mask.pdf: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
-\end{figure}
-}
+%\end{figure}
+%}
 \frame{
 \begin{figure}[ht!]
  \centering
@@ -331,10 +349,10 @@
 \frame{
 \begin{figure}[ht!]
  \centering
- \includegraphics[scale=0.25]{./planck_omk_pred_mask.pdf}
- \includegraphics[scale=0.25]{./planck_tau_pred_mask.pdf}
- \includegraphics[scale=0.25]{./planck_As_pred_mask.pdf}
- \includegraphics[scale=0.25]{./planck_at_pred_mask.pdf}
+ \includegraphics[scale=0.25]{./planck_omk_pred_mask_NEW.png}
+ \includegraphics[scale=0.25]{./planck_tau_pred_mask_NEW.png}
+ \includegraphics[scale=0.25]{./planck_As_pred_mask_NEW.png}
+ \includegraphics[scale=0.25]{./planck_at_pred_mask_NEW.png}
  % planck_As_pred_mask.pdf: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
 \end{figure}
 
@@ -349,11 +367,32 @@
     ] 
 }
 
+\frame{
+\begin{itemize}
+ \item We developed a method for the automatic classification of galaxy clusters dynamical state. \pause
+ \item Using this technique wee build a catalogue of merging clusters candidates. \pause
+ \item We performed individual analysis of $3$ of this clusters. \pause
+ \item We performed an Statistical analysis comparing the magnetic fields in relaxed and unrelaxed clusters. \pause
+ \item We studied the cosmic microwave background using Machine Learning techniques. \pause
+ \item We studied the angular distributions of the cosmological parameters without finding anything unexpected in the standard cosmological model, with
+       the possible exception of the parameter $10^{9}A_{s}e^{-2\tau}$.
+\end{itemize}
+}
+
+\frame{
+\begin{itemize}
+ \item Machine Learning techniques are very powerful tools to study in an independent and agnostic way any data set.  \pause
+ \item They can be very useful for classification and regression problems, achieving, in most of the problems, better results than the traditional methods 
+       in lower computational time. \pause
+ \item Taking into account the large amount of data that will be recorded by the future surveys, this technique will be essential
+       for their analysis.
+\end{itemize}
+}
 
 \frame{
 \begin{figure}[ht!]
  \centering
- \includegraphics[scale=0.63]{./gracias2.pdf}
+ \includegraphics[scale=0.63]{./gracias2.png}
 % nfw_velocity_distributions.pdf: 0x0 pixel, 300dpi, 0.00x0.00 cm, bb=
 \end{figure}
 }
